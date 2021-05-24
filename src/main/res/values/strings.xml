@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calculator2</string>
+    <string name="plus">%d + %d =</string>
+    <string name="minus">%d - %d =</string>
+    <string name="multi">%d * %d =</string>
+    <string name="divide">%d / %d =</string>
+    <string name="result">%d</string>
+</resources>
